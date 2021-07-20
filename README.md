@@ -1,2 +1,2 @@
 # prashant_goel.github.io
-Web development Boootcamp ShapeAI
+Web development Bootcamp ShapeAI
